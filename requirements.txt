@@ -45,5 +45,5 @@ tzdata==2025.1
 update-checker==0.18.0
 urllib3==2.3.0
 websocket-client==1.8.0
-Werkzeug==2.3.0
+Werkzeug>=3.1
 wordcloud==1.9.4
